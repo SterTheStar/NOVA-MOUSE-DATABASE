@@ -82,5 +82,53 @@
     "scroll": "Não informado",
     "download_link": "http://www.mediafire.com/file/h05dluk62bguyfr/TAURI_GAMING_MOUSE.zip",
     "imagem": "https://media.discordapp.net/attachments/1246160245529510009/1246160245743554670/ewf.jpg?ex=6742172b&is=6740c5ab&hm=40688d53bb2d48d2fa25c5581388bf557e23764057bbc674eb4e326c8e61349a&="
+  },
+  {
+    "marca": "Mancer",
+    "modelo": "Mancer Stinger (MCR-STI-BLK01)",
+    "sensor": "PAW3212",
+    "peso": "Não informado",
+    "numero_botoes": "6",
+    "sem_fio": "Não informado",
+    "tipo_cabo": "Trançado",
+    "scroll": "TTC",
+    "download_link": "http://www.mediafire.com/file/tjyt23q5wk5bibn/mancer-stinger.zip",
+    "imagem": "https://media.discordapp.net/attachments/1246162366094246038/1246162366308290570/mcr-sti-blk012132.jpg?ex=67421924&is=6740c7a4&hm=a31061ab059d1d54e73e873b79537447049098ebe3345eb1b368a939d79c2cc6&="
+  },
+  {
+    "marca": "Mancer",
+    "modelo": "Mancer Lead (MCR-LEA-RGB01)",
+    "sensor": "PMW3325MCU",
+    "peso": "116",
+    "numero_botoes": "Não informado",
+    "sem_fio": "Não informado",
+    "tipo_cabo": "Hyperflex",
+    "scroll": "Kailh",
+    "download_link": "https://www.mediafire.com/file/y1q48hoaf3ue3y2/Mouse-Mancer-Lead.zip/file",
+    "imagem": "https://media.discordapp.net/attachments/1246163051615358986/1246163051921670247/IMG_1480-scaled-2.jpg?ex=674219c8&is=6740c848&hm=f45a2e47483d7640d35103cbdf54981bc00c71b3f5e31d66a1fb3ca09385c27d&="
+  },
+  {
+    "marca": "Mancer",
+    "modelo": "Mancer Lead 2 (MCR-LEAM2-RGB01)",
+    "sensor": "PMW3327+HT571",
+    "peso": "75",
+    "numero_botoes": "7",
+    "sem_fio": "Não informado",
+    "tipo_cabo": "Paracord",
+    "scroll": "Não informado",
+    "download_link": "http://www.mediafire.com/file/oomnx89kkmh9298/Soft-Lead2_20230512.rar",
+    "imagem": "https://media.discordapp.net/attachments/1246164099964866613/1246164100623368315/mcr-leam2-rgb011.jpg?ex=67421ac2&is=6740c942&hm=0a9566721201dd5a59402157462efe6091ef0269cac6fcb9bf693862f649675f&="
+  },
+  {
+    "marca": "Mancer",
+    "modelo": "Mancer Crow (MCR-CRW-RGB01)",
+    "sensor": "PMW3327",
+    "peso": "75",
+    "numero_botoes": "7",
+    "sem_fio": "Não informado",
+    "tipo_cabo": "Não informado",
+    "scroll": "TTC",
+    "download_link": "http://www.mediafire.com/file/2rl4ixtrwxi67ah/Mancer-Crow-Setup-v1.0_20210915.zip",
+    "imagem": "https://media.discordapp.net/attachments/1246164924200255603/1246164924883796048/mcr-crw-rgb01.jpg?ex=67421b86&is=6740ca06&hm=44a0e4ddea5c9da4818141926d1f1dc82010004034500b3c123d2b4714c1e4f2&="
   }
 ]
