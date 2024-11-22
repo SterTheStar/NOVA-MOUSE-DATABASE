@@ -1,0 +1,38 @@
+[
+  {
+    "marca": "Logitech",
+    "modelo": "G502 Hero",
+    "imagem": "https://cdn.leroymerlin.com.br/products/mouse_sem_fio_gamer_logitech_g502_hero_16k_lightspeed_recarr_1571373965_f1b3_600x600.jpg",
+    "sensor": "Hero Sensor 25K",
+    "peso": "121g",
+    "numero_botoes": 11,
+    "sem_fio": "Não",
+    "tipo_cabo": "Fio",
+    "scroll": "Roda de rolagem infinita",
+    "download_link": "https://example.com/download/g502-hero"
+  },
+  {
+    "marca": "Razer",
+    "modelo": "DeathAdder V2",
+    "imagem": "https://www.portinfo.com.br/ccstore/v1/images/?source=/file/v5544410434345711257/products/34206.4.jpg&quality=0.8&outputFormat=JPEG",
+    "sensor": "Focus+ Optical Sensor 20K",
+    "peso": "82g",
+    "numero_botoes": 8,
+    "sem_fio": "Não",
+    "tipo_cabo": "Fio",
+    "scroll": "Roda de rolagem de alta precisão",
+    "download_link": "https://example.com/download/deathadder-v2"
+  },
+  {
+    "marca": "SteelSeries",
+    "modelo": "Rival 600",
+    "imagem": "https://a-static.mlcdn.com.br/800x560/mouse-gamer-steelseries-rival-600-rgb-7-botoes-12000dpi-62446/kabum/115331/2204b949a7404c249f198a139bf6a9f4.jpeg",
+    "sensor": "TrueMove3+ Dual Sensor",
+    "peso": "96g",
+    "numero_botoes": 7,
+    "sem_fio": "Não",
+    "tipo_cabo": "Fio",
+    "scroll": "Roda de rolagem com 12 níveis de controle",
+    "download_link": "https://example.com/download/rival-600"
+  }
+]
