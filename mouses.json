@@ -134,7 +134,7 @@
   },
   {
     "nome": "Mancer Stinger",
-    "marca": "Mancer  ",
+    "marca": "Mancer",
     "modelo": "(MCR-STI-BLK01)",
     "sensor": "PAW3212  ",
     "peso": "N/A",
@@ -153,7 +153,7 @@
   },
   {
     "nome": "Mancer Lead",
-    "marca": "Mancer  ",
+    "marca": "Mancer",
     "modelo": "(MCR-LEA-RGB01)",
     "sensor": "PMW3325MCU  ",
     "peso": "116",
@@ -172,7 +172,7 @@
   },
   {
     "nome": "Mancer Lead 2",
-    "marca": "Mancer  ",
+    "marca": "Mancer",
     "modelo": "(MCR-LEAM2-RGB01)  ",
     "sensor": "PMW3327+HT571  ",
     "peso": "75",
@@ -191,7 +191,7 @@
   },
   {
     "nome": "Mancer Crow",
-    "marca": "Mancer  ",
+    "marca": "Mancer",
     "modelo": "(MCR-CRW-RGB01)",
     "sensor": "PMW3327  ",
     "peso": "75",
@@ -210,7 +210,7 @@
   },
   {
     "nome": "Pichau P702",
-    "marca": "Pichau Gaming  ",
+    "marca": "Pichau Gaming",
     "modelo": "(PGM-P702-RGB)",
     "sensor": "PixArt PMW3360  ",
     "peso": "80",
@@ -229,7 +229,7 @@
   },
   {
     "nome": "Pichau P301",
-    "marca": "Pichau Gaming  ",
+    "marca": "Pichau Gaming",
     "modelo": "(PGM-P301-RGB) ",
     "sensor": "Avago 3050  ",
     "peso": "125",
@@ -248,7 +248,7 @@
   },
   {
     "nome": "PICHAU P501",
-    "marca": "PICHAU GAMING  ",
+    "marca": "Pichau Gaming",
     "modelo": "(PGM-P501-RGB)",
     "sensor": "PixArt PMW3325  ",
     "peso": "106",
@@ -267,7 +267,7 @@
   },
   {
     "nome": "PICHAU P701",
-    "marca": "PICHAU GAMING  ",
+    "marca": "Pichau Gaming",
     "modelo": "(PGM-P701-RGB)",
     "sensor": "PixArt PMW3360  ",
     "peso": "110",
@@ -286,7 +286,7 @@
   },
   {
     "nome": "PICHAU PX435",
-    "marca": "PICHAU GAMING",
+    "marca": "Pichau Gaming",
     "modelo": "(PG-PX435-RGB)",
     "sensor": "AVAGO 5050  ",
     "peso": "137",
@@ -305,7 +305,7 @@
   },
   {
     "nome": "Pichau Hive S",
-    "marca": "Pichau Gaming  ",
+    "marca": "Pichau Gaming",
     "modelo": "(PGM-HVSRGB-BLK)",
     "sensor": "PMW3389  ",
     "peso": "67",
@@ -324,7 +324,7 @@
   },
   {
     "nome": "PICHAU HIVE",
-    "marca": "PICHAU GAMING  ",
+    "marca": "Pichau Gaming",
     "modelo": "(PGM-HE01-RGB)",
     "sensor": "PixArt PMW3389  ",
     "peso": "60",
