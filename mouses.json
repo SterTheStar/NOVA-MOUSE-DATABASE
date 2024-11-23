@@ -1,7 +1,7 @@
 [
   {
     "nome": "TGT Bizon",
-    "marca": "TARGET",
+    "marca": "Target",
     "modelo": "(TGT-BIZ-01-RGB)",
     "sensor": "Sunplus 199",
     "peso": "N/A",
@@ -20,7 +20,7 @@
   },
   {
     "nome": "TGT Vector E1 ",
-    "marca": "TARGET",
+    "marca": "Target",
     "modelo": "(TGT-VEC-E1-RBW)",
     "sensor": "Sunplus199",
     "peso": "130",
@@ -39,7 +39,7 @@
   },
   {
     "nome": "TGT M4",
-    "marca": "TARGET",
+    "marca": "Target",
     "modelo": "(TGT-M4-RGB)",
     "sensor": "Avago 3050",
     "peso": "N/A",
@@ -58,7 +58,7 @@
   },
   {
     "nome": "TGT Karambit",
-    "marca": "TARGET",
+    "marca": "Target",
     "modelo": "(TGT-KAR-01)",
     "sensor": "N/A.",
     "peso": "N/A",
@@ -77,7 +77,7 @@
   },
   {
     "nome": "TGT Bizon S ",
-    "marca": "TARGET",
+    "marca": "Target",
     "modelo": "(TGT-BIZ-S-RBW)",
     "sensor": "Sunplus 6662",
     "peso": "137",
@@ -96,7 +96,7 @@
   },
   {
     "nome": "TGT AR15",
-    "marca": "TARGET",
+    "marca": "Target",
     "modelo": "(TGT-AR15-RBW)",
     "sensor": "2803",
     "peso": "N/A",
