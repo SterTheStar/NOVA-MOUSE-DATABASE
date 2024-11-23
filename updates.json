@@ -1,6 +1,14 @@
-{
-  "version": "1.0.0",
-  "description": "Initial release.",
-  "releaseDate": "2024-11-22",
-  "updateLink": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/tree/main"
-}
+[
+  {
+    "version": "1.0.0",
+    "description": "Initial release.",
+    "releaseDate": "2024-11-20",
+    "updateLink": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/releases"
+  },
+  {
+    "version": "1.1.0",
+    "description": "Updated release with improvements and bug fixes.",
+    "releaseDate": "2024-11-22",
+    "updateLink": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/releases"
+  }
+]
