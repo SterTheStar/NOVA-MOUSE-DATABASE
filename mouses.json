@@ -340,5 +340,24 @@
     "scroll": "N/A",
     "download_link": "https://www.mediafire.com/file/1v4po0c3vxfu9tw/hive.rar/file",
     "imagem": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/blob/main/mouseimages/hive.jpg?raw=true"
+  },
+  {
+    "nome": "HAVIT MS1001",
+    "marca": "HAVIT",
+    "modelo": "MS1001",
+    "sensor": "PAW3212 / SPCP199",
+    "peso": "N/A",
+    "numero_botoes": "7",
+    "sem_fio": "N/A",
+    "polling_rate": "N/A",
+    "comprimento_cabo": "1.6m",
+    "velocidade_sensor": "N/A",
+    "switch_botoes_laterais": "N/A",
+    "switch_botoes_centrais": "N/A",
+    "dpi": "800-1600-2400-3200-4000-4800DPI",
+    "tipo_cabo": "N/A",
+    "scroll": "N/A",
+    "download_link": "https://www.mediafire.com/file/2bt62kwb2v484xw/ms1001.zip/file",
+    "imagem": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/blob/main/mouseimages/ms1001.jpg?raw=true"
   }
 ]
