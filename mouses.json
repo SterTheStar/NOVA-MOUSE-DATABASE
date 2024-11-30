@@ -348,7 +348,7 @@
     "sensor": "PAW3212 / SPCP199",
     "peso": "N/A",
     "numero_botoes": "7",
-    "sem_fio": "N/A",
+    "sem_fio": "Não",
     "polling_rate": "N/A",
     "comprimento_cabo": "1.6m",
     "velocidade_sensor": "N/A",
