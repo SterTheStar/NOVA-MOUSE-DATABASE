@@ -359,5 +359,43 @@
     "scroll": "N/A",
     "download_link": "https://www.mediafire.com/file/2bt62kwb2v484xw/ms1001.zip/file",
     "imagem": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/blob/main/mouseimages/ms1001.jpg?raw=true"
+  },
+  {
+    "nome": "HyperX Pulsefire Surge",
+    "marca": "HyperX",
+    "modelo": "Pulsefire Surge",
+    "sensor": "Pixart 3389 ",
+    "peso": "100",
+    "numero_botoes": "6",
+    "sem_fio": "N/A",
+    "polling_rate": "1000Hz",
+    "comprimento_cabo": "Imperial",
+    "velocidade_sensor": "450 IPS",
+    "switch_botoes_laterais": "N/A",
+    "switch_botoes_centrais": "Omron 50 million clicks",
+    "dpi": "16.000",
+    "tipo_cabo": "Attached, Braided",
+    "scroll": "N/A",
+    "download_link": "https://www.mediafire.com/file/f6q9wixmte5bwj8/HyperX_NGENUITY_Installer_2.25.7.0.exe/file",
+    "imagem": "https://raw.githubusercontent.com/SterTheStar/NOVA-MOUSE-DATABASE/refs/heads/main/mouseimages/hyperx_pulsefire_surge_1_main_900x.webp"
+  },
+  {
+    "nome": "HyperX Pulsefire Haste",
+    "marca": "HyperX",
+    "modelo": "Pulsefire Haste",
+    "sensor": "Pixart 3335",
+    "peso": "59",
+    "numero_botoes": "6",
+    "sem_fio": "N/A",
+    "polling_rate": "1000Hz",
+    "comprimento_cabo": "Imperial",
+    "velocidade_sensor": "450 IPS",
+    "switch_botoes_laterais": "N/A",
+    "switch_botoes_centrais": "TTC Golden Micro Dustproof Switch 60 million clicks",
+    "dpi": "400 / 800 / 1600 / 3200",
+    "tipo_cabo": "HyperFlex USB Cable",
+    "scroll": "N/A",
+    "download_link": "https://www.mediafire.com/file/f6q9wixmte5bwj8/HyperX_NGENUITY_Installer_2.25.7.0.exe/file",
+    "imagem": "https://raw.githubusercontent.com/SterTheStar/NOVA-MOUSE-DATABASE/refs/heads/main/mouseimages/hyperx_pulsefire_haste_1_top_down_900x.webp"
   }
 ]
