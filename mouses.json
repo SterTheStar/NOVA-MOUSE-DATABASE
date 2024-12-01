@@ -400,7 +400,7 @@
   },
   {
     "nome": "HyperX Pulsefire Dart",
-    "marca": "HyperX",
+    "marca": "HyperX ",
     "modelo": "Pulsefire Dart",
     "sensor": "Pixart 3389",
     "peso": "110",
@@ -416,5 +416,43 @@
     "scroll": "N/A",
     "download_link": "https://www.mediafire.com/file/f6q9wixmte5bwj8/HyperX_NGENUITY_Installer_2.25.7.0.exe/file",
     "imagem": "https://raw.githubusercontent.com/SterTheStar/NOVA-MOUSE-DATABASE/refs/heads/main/mouseimages/hyperx_pulsefire_dart_01_top_down_900x.webp"
+  },
+  {
+    "nome": "HyperX Pulsefire Raid",
+    "marca": "HyperX",
+    "modelo": "Pulsefire Raid",
+    "sensor": "Pixart 3389",
+    "peso": "95",
+    "numero_botoes": "11",
+    "sem_fio": "Cable",
+    "polling_rate": "N/A",
+    "comprimento_cabo": "N/A",
+    "velocidade_sensor": "450 IPS",
+    "switch_botoes_laterais": "N/A",
+    "switch_botoes_centrais": "Omron 20 million clicks",
+    "dpi": "800 / 1600 / 3200",
+    "tipo_cabo": "Braided",
+    "scroll": "N/A",
+    "download_link": "https://www.mediafire.com/file/f6q9wixmte5bwj8/HyperX_NGENUITY_Installer_2.25.7.0.exe/file",
+    "imagem": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/raw/refs/heads/main/mouseimages/hyperx_pulsefire_raid_2_angled_back_900x.webp"
+  },
+  {
+    "nome": "HyperX Pulsefire FPS Pro",
+    "marca": "HyperX",
+    "modelo": "Pulsefire FPS Pro",
+    "sensor": "Pixart 3389",
+    "peso": "90",
+    "numero_botoes": "6",
+    "sem_fio": "Cable",
+    "polling_rate": "1000Hz",
+    "comprimento_cabo": "N/A",
+    "velocidade_sensor": "450 IPS",
+    "switch_botoes_laterais": "N/A",
+    "switch_botoes_centrais": "Omron 20 million clicks",
+    "dpi": "16.000",
+    "tipo_cabo": "Attached, Braided",
+    "scroll": "N/A",
+    "download_link": "https://www.mediafire.com/file/f6q9wixmte5bwj8/HyperX_NGENUITY_Installer_2.25.7.0.exe/file",
+    "imagem": "https://github.com/SterTheStar/NOVA-MOUSE-DATABASE/raw/refs/heads/main/mouseimages/hyperx_pulsefire_fps_pro_1_top_down_720x.webp"
   }
 ]
